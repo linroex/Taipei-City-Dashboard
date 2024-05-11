@@ -35,6 +35,23 @@ func haversine(lat1, lon1, lat2, lon2 float64) float64 {
 	distance := earthRadius * c
 	return distance
 }
+
+// Point 代表一個經緯度的點
+type Point struct {
+	Latitude, Longitude float64
+}
+
+// DistanceToPolygon 計算一個點到一個多邊形的最短距離
+func DistanceToPolygon(point Point, polygon []Point) float64 {
+	minDistance := math.Inf(1)
+	for i := 0; i < len(polygon); i++ {
+		target := polygon[i]
+		distance := haversine(point.Latitude, point.Longitude, target.Latitude, target.Longitude)
+		minDistance = math.Min(minDistance, distance)
+	}
+	return minDistance
+}
+
 /**
 	x: x value for coordinates
 	y: y value for coordinates
@@ -70,15 +87,15 @@ func GetWeightScore(x float64, y float64, filename string,
 		distance := haversine(x, y, coords[0], coords[1])
         distances[distance] = coords
     }
-
     // 轉換距離和座標的 map 為 JSON 可接受的格式
     var result = 0.0;
+	a := 0.5  // 指數增長速率
     for distance := range distances {
 		if (distance < calcRange) {
-			result += weight;
+			distanceScore := weight * math.Exp(-a * distance)
+			result += distanceScore;
 		}
     }
-
 	return result;
 }
 
@@ -98,7 +115,10 @@ func GetLiveSafeScore(c *gin.Context) {
 		c.JSON(400, gin.H{"error": err})
 		return
 	}
-	result := GetWeightScore(x, y, "traffic_accident_location_view.geojson", 0.00026, 5)
-    // 返回 JSON
+	result := GetWeightScore(x, y, "traffic_accident_location_view.geojson", 0.00084, 5)
+    if (result > 100) {
+		result = 100
+	}
+	// 返回 JSON
     c.JSON(200, gin.H{"score": result})
 }
