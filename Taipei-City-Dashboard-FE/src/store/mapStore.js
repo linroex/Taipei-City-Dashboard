@@ -75,6 +75,12 @@ export const useMapStore = defineStore("map", {
 			});
 			this.map.addControl(new mapboxGl.NavigationControl());
 			this.map.doubleClickZoom.disable();
+			// this.map.dragPan.enable({
+			// 	linearity: 0.3,
+			// 	easing: (t) => t,
+			// 	maxSpeed: 1400,
+			// 	deceleration: 2500,
+			// });
 			this.map
 				.on("load", () => {
 					this.initializeBasicLayers();
@@ -887,6 +893,8 @@ export const useMapStore = defineStore("map", {
 				return;
 			}
 
+			const canvas = this.map.getCanvasContainer();
+
 			// Ensure the icon image is loaded
 			this.map.loadImage("./images/map/home.png", (error, image) => {
 				if (error) throw error;
@@ -920,6 +928,20 @@ export const useMapStore = defineStore("map", {
 						"icon-size": 1, // Adjust the size of the icon as needed
 					},
 				});
+
+				// When the cursor enters a feature in
+				// the point layer, prepare for dragging.
+				this.map.on("mouseenter", iconId, () => {
+					this.map.setPaintProperty(iconId, "icon-opacity", 0.8);
+					canvas.style.cursor = "move";
+				});
+
+				this.map.on("mouseleave", iconId, () => {
+					this.map.setPaintProperty(iconId, "icon-opacity", 1);
+					canvas.style.cursor = "";
+				});
+
+				this.setDraggableIcon(iconId);
 			});
 		},
 		// 3. Called after searching a location, set security score
@@ -936,6 +958,51 @@ export const useMapStore = defineStore("map", {
 			} else {
 				console.error("Failed to fetch ", response.statusText);
 			}
+		},
+		// 4. Called when moving icon
+		setDraggableIcon(iconId) {
+			const canvas = this.map.getCanvasContainer();
+
+			const onMove = (e) => {
+				const coords = e.lngLat;
+
+				// Update the position of the icon feature in the source data
+				this.map.getSource(iconId).setData({
+					type: "FeatureCollection",
+					features: [
+						{
+							type: "Feature",
+							geometry: {
+								type: "Point",
+								coordinates: [coords.lng, coords.lat],
+							},
+						},
+					],
+				});
+
+				// Call searchLocation with the new coordinates
+				this.searchLocation([coords.lng, coords.lat]);
+			};
+
+			const onUp = () => {
+				// Unbind the mousemove and mouseup event listeners
+				this.map.off("mousemove", onMove);
+				this.map.off("mouseup", onUp);
+
+				// Reset the cursor style
+				canvas.style.cursor = "";
+			};
+
+			this.map.on("mousedown", iconId, (e) => {
+				// Prevent the default map drag behavior
+				e.preventDefault();
+
+				canvas.style.cursor = "grabbing";
+
+				// Bind mousemove and mouseup event listeners
+				this.map.on("mousemove", onMove);
+				this.map.once("mouseup", onUp);
+			});
 		},
 	},
 });
