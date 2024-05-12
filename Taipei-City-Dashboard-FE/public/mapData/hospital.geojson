@@ -1,0 +1,3957 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.526627,
+          25.111729
+        ]
+      },
+      "properties": {
+        "院所名稱": "陳彥銘耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.520481,
+          25.088539
+        ]
+      },
+      "properties": {
+        "院所名稱": "蘇慧卿診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.532451,
+          25.12134
+        ]
+      },
+      "properties": {
+        "院所名稱": "貝爾診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.525242,
+          25.107594
+        ]
+      },
+      "properties": {
+        "院所名稱": "佩佩婦幼診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.525638,
+          25.110093
+        ]
+      },
+      "properties": {
+        "院所名稱": "張虔熙小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.525172,
+          25.094978
+        ]
+      },
+      "properties": {
+        "院所名稱": "士林小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52366,
+          25.094765
+        ]
+      },
+      "properties": {
+        "院所名稱": "小禾馨士林小兒專科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.522569,
+          25.094729
+        ]
+      },
+      "properties": {
+        "院所名稱": "耀明診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.523562,
+          25.094762
+        ]
+      },
+      "properties": {
+        "院所名稱": "臺北市立聯合醫院附設士林門診部"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.520143,
+          25.096399
+        ]
+      },
+      "properties": {
+        "院所名稱": "新光醫療財團法人新光吳火獅紀念醫院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.524663,
+          25.09489
+        ]
+      },
+      "properties": {
+        "院所名稱": "士林同仁中醫診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.524569,
+          25.095675
+        ]
+      },
+      "properties": {
+        "院所名稱": "存德小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.524202,
+          25.096164
+        ]
+      },
+      "properties": {
+        "院所名稱": "榮清耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.520834,
+          25.102501
+        ]
+      },
+      "properties": {
+        "院所名稱": "邱世昌診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51175,
+          25.053996
+        ]
+      },
+      "properties": {
+        "院所名稱": "蕭雨青小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52731,
+          25.10488
+        ]
+      },
+      "properties": {
+        "院所名稱": "天母品恆復健科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.529632,
+          25.11082
+        ]
+      },
+      "properties": {
+        "院所名稱": "忠誠聯合診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.521384,
+          25.088563
+        ]
+      },
+      "properties": {
+        "院所名稱": "愛林診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.510553,
+          25.089254
+        ]
+      },
+      "properties": {
+        "院所名稱": "科安診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5099128,
+          25.088941
+        ]
+      },
+      "properties": {
+        "院所名稱": "粱耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.531267,
+          25.104607
+        ]
+      },
+      "properties": {
+        "院所名稱": "臺北市立聯合醫院陽明院區"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.517657,
+          25.086701
+        ]
+      },
+      "properties": {
+        "院所名稱": "何小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.520469,
+          25.103772
+        ]
+      },
+      "properties": {
+        "院所名稱": "嘉櫻小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53755,
+          25.110312
+        ]
+      },
+      "properties": {
+        "院所名稱": "樹爸爸親子診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52119,
+          25.08084
+        ]
+      },
+      "properties": {
+        "院所名稱": "德泰耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.514144,
+          25.056965
+        ]
+      },
+      "properties": {
+        "院所名稱": "寧夏診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.512807,
+          25.059592
+        ]
+      },
+      "properties": {
+        "院所名稱": "建順診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.520429,
+          25.055708
+        ]
+      },
+      "properties": {
+        "院所名稱": "黃博裕小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.516023,
+          25.065893
+        ]
+      },
+      "properties": {
+        "院所名稱": "臺北市立聯合醫院附設大同門診部"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.515123,
+          25.051466
+        ]
+      },
+      "properties": {
+        "院所名稱": "羅源彰診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.516592804501,
+          25.07393715
+        ]
+      },
+      "properties": {
+        "院所名稱": "新林牙醫診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.514885,
+          25.072986
+        ]
+      },
+      "properties": {
+        "院所名稱": "趙黎海診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.513776,
+          25.066013
+        ]
+      },
+      "properties": {
+        "院所名稱": "澤康診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.513927,
+          25.052667
+        ]
+      },
+      "properties": {
+        "院所名稱": "張漢權內科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.513845,
+          25.068522
+        ]
+      },
+      "properties": {
+        "院所名稱": "羅志弘診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.513846,
+          25.07058
+        ]
+      },
+      "properties": {
+        "院所名稱": "余自興眼科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.513598,
+          25.064089
+        ]
+      },
+      "properties": {
+        "院所名稱": "施小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.509192,
+          25.051317
+        ]
+      },
+      "properties": {
+        "院所名稱": "臺北市立聯合醫院中興院區"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5190078,
+          25.0601467
+        ]
+      },
+      "properties": {
+        "院所名稱": "悅昇診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.546162,
+          25.02865
+        ]
+      },
+      "properties": {
+        "院所名稱": "劉建宏診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54517,
+          25.037242
+        ]
+      },
+      "properties": {
+        "院所名稱": "臺北市立聯合醫院仁愛院區"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.549959,
+          25.036558
+        ]
+      },
+      "properties": {
+        "院所名稱": "中山醫療社團法人中山醫院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.553675,
+          25.03687
+        ]
+      },
+      "properties": {
+        "院所名稱": "國泰醫療財團法人國泰綜合醫院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5470685,
+          25.0387092
+        ]
+      },
+      "properties": {
+        "院所名稱": "宏恩醫療財團法人宏恩綜合醫院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.546857,
+          25.028236
+        ]
+      },
+      "properties": {
+        "院所名稱": "松德診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.55637825,
+          25.0437426
+        ]
+      },
+      "properties": {
+        "院所名稱": "黃清浩耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.544333,
+          25.021342
+        ]
+      },
+      "properties": {
+        "院所名稱": "臺北市立聯合醫院附設大安門診部"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.532488,
+          25.026202
+        ]
+      },
+      "properties": {
+        "院所名稱": "許靜瑛小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.543001,
+          25.024714
+        ]
+      },
+      "properties": {
+        "院所名稱": "啟誠聯合診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.542133,
+          25.02526
+        ]
+      },
+      "properties": {
+        "院所名稱": "景德耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.543663,
+          25.024929
+        ]
+      },
+      "properties": {
+        "院所名稱": "健華診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.545152,
+          25.025462
+        ]
+      },
+      "properties": {
+        "院所名稱": "施崇仁耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.546012,
+          25.024789
+        ]
+      },
+      "properties": {
+        "院所名稱": "全家聯合診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.553676,
+          25.023393
+        ]
+      },
+      "properties": {
+        "院所名稱": "安吉耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5573055,
+          25.0193856
+        ]
+      },
+      "properties": {
+        "院所名稱": "大安黃耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5573055,
+          25.0193856
+        ]
+      },
+      "properties": {
+        "院所名稱": "和欣視光眼科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.553696,
+          25.023373
+        ]
+      },
+      "properties": {
+        "院所名稱": "邱醫師診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.546897,
+          25.024625
+        ]
+      },
+      "properties": {
+        "院所名稱": "那明珠診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5556269,
+          25.0370007
+        ]
+      },
+      "properties": {
+        "院所名稱": "慈民骨科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5559477,
+          25.0355826
+        ]
+      },
+      "properties": {
+        "院所名稱": "延吉診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5395911,
+          25.042377
+        ]
+      },
+      "properties": {
+        "院所名稱": "林繼國診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5455769,
+          25.0421654
+        ]
+      },
+      "properties": {
+        "院所名稱": "黃文香兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.547389,
+          25.041945
+        ]
+      },
+      "properties": {
+        "院所名稱": "中心診所醫療財團法人中心綜合醫院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.537973,
+          25.033591
+        ]
+      },
+      "properties": {
+        "院所名稱": "星星親子眼科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.549422,
+          25.033175
+        ]
+      },
+      "properties": {
+        "院所名稱": "杏誠復健科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.554171,
+          25.0336829
+        ]
+      },
+      "properties": {
+        "院所名稱": "夏爾診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.545453,
+          25.03326
+        ]
+      },
+      "properties": {
+        "院所名稱": "珍世明眼科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.537277,
+          25.025079
+        ]
+      },
+      "properties": {
+        "院所名稱": "尹書田醫療財團法人書田泌尿科眼科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.528587,
+          25.023707
+        ]
+      },
+      "properties": {
+        "院所名稱": "黃禎祥診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.543551,
+          25.027557
+        ]
+      },
+      "properties": {
+        "院所名稱": "樂益耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.543551,
+          25.027555
+        ]
+      },
+      "properties": {
+        "院所名稱": "大安耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.543531,
+          25.033066
+        ]
+      },
+      "properties": {
+        "院所名稱": "宇寧身心診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.547322,
+          25.043552
+        ]
+      },
+      "properties": {
+        "院所名稱": "頂好林耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53469,
+          25.025813
+        ]
+      },
+      "properties": {
+        "院所名稱": "禾馨新生婦幼診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.534541,
+          25.025553
+        ]
+      },
+      "properties": {
+        "院所名稱": "小禾馨小兒專科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.529095,
+          25.033014
+        ]
+      },
+      "properties": {
+        "院所名稱": "博安家庭醫學科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.55351,
+          25.03169
+        ]
+      },
+      "properties": {
+        "院所名稱": "呂小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.534541,
+          25.025553
+        ]
+      },
+      "properties": {
+        "院所名稱": "禾馨大安婦幼診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.543555,
+          25.027728
+        ]
+      },
+      "properties": {
+        "院所名稱": "永誠復健科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.542309,
+          25.047205
+        ]
+      },
+      "properties": {
+        "院所名稱": "中崙國際診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.522183,
+          25.05854
+        ]
+      },
+      "properties": {
+        "院所名稱": "台灣基督長老教會馬偕醫療財團法人馬偕紀念醫院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52101,
+          25.06038
+        ]
+      },
+      "properties": {
+        "院所名稱": "周賢章耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.540028043322,
+          25.08067075
+        ]
+      },
+      "properties": {
+        "院所名稱": "愛鄰診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.540028043322,
+          25.08067075
+        ]
+      },
+      "properties": {
+        "院所名稱": "北安聯合診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5475851,
+          25.0822548
+        ]
+      },
+      "properties": {
+        "院所名稱": "惟廉診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.547623,
+          25.08198
+        ]
+      },
+      "properties": {
+        "院所名稱": "迪昇牙醫診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.547651,
+          25.081866
+        ]
+      },
+      "properties": {
+        "院所名稱": "柏泉內科小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.547801,
+          25.081751
+        ]
+      },
+      "properties": {
+        "院所名稱": "大直診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.548543,
+          25.081209
+        ]
+      },
+      "properties": {
+        "院所名稱": "固廉診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.548543,
+          25.081209
+        ]
+      },
+      "properties": {
+        "院所名稱": "高固廉診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.549057,
+          25.083783
+        ]
+      },
+      "properties": {
+        "院所名稱": "莊宇龍診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.521841,
+          25.057664
+        ]
+      },
+      "properties": {
+        "院所名稱": "雙連婦產科小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.523115,
+          25.057928
+        ]
+      },
+      "properties": {
+        "院所名稱": "鄭志誠小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5323925,
+          25.0580388
+        ]
+      },
+      "properties": {
+        "院所名稱": "陳炯輝診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.542311,
+          25.057725
+        ]
+      },
+      "properties": {
+        "院所名稱": "民生承安診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.542311,
+          25.057725
+        ]
+      },
+      "properties": {
+        "院所名稱": "興安診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.534908,
+          25.062337
+        ]
+      },
+      "properties": {
+        "院所名稱": "杏慈診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.530119,
+          25.053358
+        ]
+      },
+      "properties": {
+        "院所名稱": "慶恩小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.530209,
+          25.057938
+        ]
+      },
+      "properties": {
+        "院所名稱": "德容聯合診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53316,
+          25.046699
+        ]
+      },
+      "properties": {
+        "院所名稱": "光華家醫科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.533603,
+          25.064419
+        ]
+      },
+      "properties": {
+        "院所名稱": "臺北市立聯合醫院附設中山門診部"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.534422,
+          25.050179
+        ]
+      },
+      "properties": {
+        "院所名稱": "協和婦女醫院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.525621,
+          25.063027
+        ]
+      },
+      "properties": {
+        "院所名稱": "臺北市立聯合醫院林森院區"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.525647,
+          25.064108
+        ]
+      },
+      "properties": {
+        "院所名稱": "晴光診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.538067504103,
+          25.04943475
+        ]
+      },
+      "properties": {
+        "院所名稱": "蔡國賢耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.534484,
+          25.048431
+        ]
+      },
+      "properties": {
+        "院所名稱": "木生婦產科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.537064,
+          25.053279
+        ]
+      },
+      "properties": {
+        "院所名稱": "長春眼科聯合診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.542592,
+          25.0659789
+        ]
+      },
+      "properties": {
+        "院所名稱": "晉宏診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.560153,
+          25.079952
+        ]
+      },
+      "properties": {
+        "院所名稱": "樂群診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.539152,
+          25.060249
+        ]
+      },
+      "properties": {
+        "院所名稱": "正恩耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5406403,
+          25.0562325
+        ]
+      },
+      "properties": {
+        "院所名稱": "龍江小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5405869,
+          25.0565251
+        ]
+      },
+      "properties": {
+        "院所名稱": "寧康聯合診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.530148,
+          25.054861
+        ]
+      },
+      "properties": {
+        "院所名稱": "中山適康復健科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.540766,
+          25.061071
+        ]
+      },
+      "properties": {
+        "院所名稱": "榮星診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5266258,
+          25.0647505
+        ]
+      },
+      "properties": {
+        "院所名稱": "綠葉親子診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51916,
+          25.040274
+        ]
+      },
+      "properties": {
+        "院所名稱": "國立臺灣大學醫學院附設醫院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.518491,
+          25.044215
+        ]
+      },
+      "properties": {
+        "院所名稱": "國立臺灣大學醫學院附設醫院兒童醫院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.507029,
+          25.035426
+        ]
+      },
+      "properties": {
+        "院所名稱": "臺北市立聯合醫院和平院區"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.516727,
+          25.044339
+        ]
+      },
+      "properties": {
+        "院所名稱": "醫療財團法人好心肝基金會好心肝診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.510853,
+          25.043105
+        ]
+      },
+      "properties": {
+        "院所名稱": "醫療財團法人徐元智先生醫藥基金會遠東聯合診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.511216,
+          25.026928
+        ]
+      },
+      "properties": {
+        "院所名稱": "劉瑞聰診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5093743,
+          25.0283652
+        ]
+      },
+      "properties": {
+        "院所名稱": "朱小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.522014,
+          25.024514
+        ]
+      },
+      "properties": {
+        "院所名稱": "同安中醫診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.518161,
+          25.045824
+        ]
+      },
+      "properties": {
+        "院所名稱": "和眾綜合診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.511998,
+          25.044163
+        ]
+      },
+      "properties": {
+        "院所名稱": "天心中醫診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.531372,
+          25.033716
+        ]
+      },
+      "properties": {
+        "院所名稱": "嘉貝牙醫診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.517555,
+          25.030792
+        ]
+      },
+      "properties": {
+        "院所名稱": "池振坤耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.515871,
+          25.030398
+        ]
+      },
+      "properties": {
+        "院所名稱": "臺北市立聯合醫院附設中正門診部"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.513369,
+          25.043128
+        ]
+      },
+      "properties": {
+        "院所名稱": "小禾馨懷寧小兒專科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.521792,
+          25.041127
+        ]
+      },
+      "properties": {
+        "院所名稱": "周正成小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.519344,
+          25.02907
+        ]
+      },
+      "properties": {
+        "院所名稱": "臺北市立聯合醫院婦幼院區"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.518815,
+          25.028569
+        ]
+      },
+      "properties": {
+        "院所名稱": "郵政醫院（委託中英醫療社團法人經營）"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.560153,
+          25.079952
+        ]
+      },
+      "properties": {
+        "院所名稱": "永育樂群診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.513967,
+          25.043054
+        ]
+      },
+      "properties": {
+        "院所名稱": "禾馨婦產科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5648982,
+          25.083348
+        ]
+      },
+      "properties": {
+        "院所名稱": "育睿診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.570951,
+          25.081455
+        ]
+      },
+      "properties": {
+        "院所名稱": "魏穀年診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5779947,
+          25.0807115
+        ]
+      },
+      "properties": {
+        "院所名稱": "仁弘耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.579687,
+          25.07883
+        ]
+      },
+      "properties": {
+        "院所名稱": "焉醫師診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.59074,
+          25.082122
+        ]
+      },
+      "properties": {
+        "院所名稱": "中國醫藥大學附設醫院臺北分院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.590753,
+          25.082364
+        ]
+      },
+      "properties": {
+        "院所名稱": "立安診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5833436,
+          25.0787298
+        ]
+      },
+      "properties": {
+        "院所名稱": "適康復健科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.580426,
+          25.078441
+        ]
+      },
+      "properties": {
+        "院所名稱": "思維診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.580426,
+          25.078441
+        ]
+      },
+      "properties": {
+        "院所名稱": "文德耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.582351,
+          25.078591
+        ]
+      },
+      "properties": {
+        "院所名稱": "林登山耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.584364,
+          25.068739
+        ]
+      },
+      "properties": {
+        "院所名稱": "內湖長春診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.588952,
+          25.069331
+        ]
+      },
+      "properties": {
+        "院所名稱": "臺北市立聯合醫院附設內湖門診部"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.59261,
+          25.071758
+        ]
+      },
+      "properties": {
+        "院所名稱": "三軍總醫院附設民眾診療服務處"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.608867,
+          25.075891
+        ]
+      },
+      "properties": {
+        "院所名稱": "康寧醫療財團法人康寧醫院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.591311,
+          25.081216
+        ]
+      },
+      "properties": {
+        "院所名稱": "成功復健科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.591311,
+          25.081216
+        ]
+      },
+      "properties": {
+        "院所名稱": "成功耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.594151,
+          25.083539
+        ]
+      },
+      "properties": {
+        "院所名稱": "品牙醫診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.596826,
+          25.084473
+        ]
+      },
+      "properties": {
+        "院所名稱": "湖欣診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.594901,
+          25.08412
+        ]
+      },
+      "properties": {
+        "院所名稱": "永育醫療大湖診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.591639,
+          25.081348
+        ]
+      },
+      "properties": {
+        "院所名稱": "馬思特診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5933069,
+          25.0808416
+        ]
+      },
+      "properties": {
+        "院所名稱": "林孟勳診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5771584,
+          25.0770279
+        ]
+      },
+      "properties": {
+        "院所名稱": "薈安診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6167,
+          25.06795
+        ]
+      },
+      "properties": {
+        "院所名稱": "藍曾小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.597578,
+          25.081333
+        ]
+      },
+      "properties": {
+        "院所名稱": "劉淦華診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6114398,
+          25.0719761
+        ]
+      },
+      "properties": {
+        "院所名稱": "元康牙醫診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.611753,
+          25.070223
+        ]
+      },
+      "properties": {
+        "院所名稱": "東湖張耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.609607,
+          25.071395
+        ]
+      },
+      "properties": {
+        "院所名稱": "魏之明小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.619332,
+          25.072118
+        ]
+      },
+      "properties": {
+        "院所名稱": "林永正診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.61845,
+          25.068841
+        ]
+      },
+      "properties": {
+        "院所名稱": "康樂診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.561611,
+          25.082236
+        ]
+      },
+      "properties": {
+        "院所名稱": "康研診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.577876,
+          25.08074
+        ]
+      },
+      "properties": {
+        "院所名稱": "王慶森診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.575514,
+          25.077756
+        ]
+      },
+      "properties": {
+        "院所名稱": "內湖恆新復健科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.575514,
+          25.077756
+        ]
+      },
+      "properties": {
+        "院所名稱": "國泰醫療財團法人內湖國泰診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.565551,
+          25.082565
+        ]
+      },
+      "properties": {
+        "院所名稱": "陳森豊診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.617561,
+          25.067902
+        ]
+      },
+      "properties": {
+        "院所名稱": "禾安耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.615142,
+          25.068554
+        ]
+      },
+      "properties": {
+        "院所名稱": "佳霖診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.568759,
+          24.983865
+        ]
+      },
+      "properties": {
+        "院所名稱": "房國堂小兒專科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.568759,
+          24.983865
+        ]
+      },
+      "properties": {
+        "院所名稱": "泓仁診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.55914,
+          24.98129
+        ]
+      },
+      "properties": {
+        "院所名稱": "大豐耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.56009,
+          24.98425
+        ]
+      },
+      "properties": {
+        "院所名稱": "世誠耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.569297,
+          24.987623
+        ]
+      },
+      "properties": {
+        "院所名稱": "許至文耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.576723,
+          24.987471
+        ]
+      },
+      "properties": {
+        "院所名稱": "臺北市立聯合醫院附設政大門診部"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.544808,
+          24.994453
+        ]
+      },
+      "properties": {
+        "院所名稱": "震杰小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.540153,
+          24.992267
+        ]
+      },
+      "properties": {
+        "院所名稱": "黃偉志小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53901,
+          25.004304
+        ]
+      },
+      "properties": {
+        "院所名稱": "興隆李內兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.545443,
+          24.998864
+        ]
+      },
+      "properties": {
+        "院所名稱": "興隆內科小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5534536,
+          25.0018753
+        ]
+      },
+      "properties": {
+        "院所名稱": "屈銘軒小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.547971,
+          24.999668
+        ]
+      },
+      "properties": {
+        "院所名稱": "林建輝小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.558156,
+          25.000113
+        ]
+      },
+      "properties": {
+        "院所名稱": "臺北市立萬芳醫院－委託財團法人臺北醫學大學辦理"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.559078,
+          24.997733
+        ]
+      },
+      "properties": {
+        "院所名稱": "葉洪小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.561782,
+          24.984065
+        ]
+      },
+      "properties": {
+        "院所名稱": "澤文診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5608368,
+          24.9864957
+        ]
+      },
+      "properties": {
+        "院所名稱": "德安小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.561347,
+          24.98505
+        ]
+      },
+      "properties": {
+        "院所名稱": "洪佑承小兒專科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.561782,
+          24.984065
+        ]
+      },
+      "properties": {
+        "院所名稱": "徐慧玲診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.540185,
+          24.991855
+        ]
+      },
+      "properties": {
+        "院所名稱": "佳鴻診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.539881,
+          24.991213
+        ]
+      },
+      "properties": {
+        "院所名稱": "景美醫院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.501089,
+          25.130648
+        ]
+      },
+      "properties": {
+        "院所名稱": "明月牙醫診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.497919,
+          25.135738
+        ]
+      },
+      "properties": {
+        "院所名稱": "黃浩魁小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.497783,
+          25.135799
+        ]
+      },
+      "properties": {
+        "院所名稱": "永安家庭醫學科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.499635,
+          25.134723
+        ]
+      },
+      "properties": {
+        "院所名稱": "鄭宇廷耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.494546,
+          25.137261
+        ]
+      },
+      "properties": {
+        "院所名稱": "長宏診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.500513,
+          25.127734
+        ]
+      },
+      "properties": {
+        "院所名稱": "慈恩耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.501267,
+          25.128321
+        ]
+      },
+      "properties": {
+        "院所名稱": "祐民聯合診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.500799,
+          25.127791
+        ]
+      },
+      "properties": {
+        "院所名稱": "陳獻明小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.499489,
+          25.14123
+        ]
+      },
+      "properties": {
+        "院所名稱": "清田婦產科家醫科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.499484,
+          25.141234
+        ]
+      },
+      "properties": {
+        "院所名稱": "蔡秉勳小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.514429,
+          25.114919
+        ]
+      },
+      "properties": {
+        "院所名稱": "台北欣安耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.510287,
+          25.113011
+        ]
+      },
+      "properties": {
+        "院所名稱": "京品牙醫診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.510287,
+          25.113011
+        ]
+      },
+      "properties": {
+        "院所名稱": "旭康復健科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.512218,
+          25.114038
+        ]
+      },
+      "properties": {
+        "院所名稱": "李伯匯小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.519725,
+          25.121014
+        ]
+      },
+      "properties": {
+        "院所名稱": "臺北榮民總醫院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.516788,
+          25.1171105
+        ]
+      },
+      "properties": {
+        "院所名稱": "何叔芳小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.471842,
+          25.128596
+        ]
+      },
+      "properties": {
+        "院所名稱": "醫療財團人辜公亮基金會和信治癌中心醫院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.500963,
+          25.133159
+        ]
+      },
+      "properties": {
+        "院所名稱": "昱德聯合診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.502506,
+          25.134981
+        ]
+      },
+      "properties": {
+        "院所名稱": "張參雄診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5025325,
+          25.1345162
+        ]
+      },
+      "properties": {
+        "院所名稱": "和悅經典中醫診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.515617,
+          25.11088
+        ]
+      },
+      "properties": {
+        "院所名稱": "王永良診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5187338,
+          25.1093374
+        ]
+      },
+      "properties": {
+        "院所名稱": "黃正宏診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.519885,
+          25.109718
+        ]
+      },
+      "properties": {
+        "院所名稱": "陳信方小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.520188,
+          25.109955
+        ]
+      },
+      "properties": {
+        "院所名稱": "林文正耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.520188,
+          25.109955
+        ]
+      },
+      "properties": {
+        "院所名稱": "陳柏宏親子診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.518874,
+          25.108924
+        ]
+      },
+      "properties": {
+        "院所名稱": "陳珀勳診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.466198,
+          25.120467
+        ]
+      },
+      "properties": {
+        "院所名稱": "臺北市立關渡醫院-委託臺北榮民總醫院經營"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.513718,
+          25.112012
+        ]
+      },
+      "properties": {
+        "院所名稱": "宏恩兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.522188,
+          25.116453
+        ]
+      },
+      "properties": {
+        "院所名稱": "振興醫療財團法人振興醫院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.50269,
+          25.132383
+        ]
+      },
+      "properties": {
+        "院所名稱": "臺北市立聯合醫院附設北投門診部"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.501199,
+          25.139736
+        ]
+      },
+      "properties": {
+        "院所名稱": "三軍總醫院北投分院附設民眾診療服務處"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.546771,
+          25.048212
+        ]
+      },
+      "properties": {
+        "院所名稱": "駿昂耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.540461769099,
+          25.04625895
+        ]
+      },
+      "properties": {
+        "院所名稱": "基督復臨安息日會醫療財團法人臺安醫院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.551933,
+          25.048164
+        ]
+      },
+      "properties": {
+        "院所名稱": "康瑞耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.550914,
+          25.048151
+        ]
+      },
+      "properties": {
+        "院所名稱": "車參薇小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5551652,
+          25.0496275
+        ]
+      },
+      "properties": {
+        "院所名稱": "閎新耳鼻喉科皮膚科聯合診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.556243,
+          25.048009
+        ]
+      },
+      "properties": {
+        "院所名稱": "佑家診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.561288,
+          25.048496
+        ]
+      },
+      "properties": {
+        "院所名稱": "陳大昕耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.576761,
+          25.050107
+        ]
+      },
+      "properties": {
+        "院所名稱": "臺北市立聯合醫院附設松山門診部"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.562898,
+          25.047304
+        ]
+      },
+      "properties": {
+        "院所名稱": "洪小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.56182,
+          25.059072
+        ]
+      },
+      "properties": {
+        "院所名稱": "詹前俊小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.557501,
+          25.058397
+        ]
+      },
+      "properties": {
+        "院所名稱": "劉內兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.557501,
+          25.058397
+        ]
+      },
+      "properties": {
+        "院所名稱": "謝耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.558768,
+          25.05849
+        ]
+      },
+      "properties": {
+        "院所名稱": "黎博彥診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.55371274999999,
+          25.0566441
+        ]
+      },
+      "properties": {
+        "院所名稱": "大家好診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5598678,
+          25.0500448
+        ]
+      },
+      "properties": {
+        "院所名稱": "悠適復健科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5555,
+          25.056866
+        ]
+      },
+      "properties": {
+        "院所名稱": "松原復健診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.557608,
+          25.049979
+        ]
+      },
+      "properties": {
+        "院所名稱": "博仁綜合醫院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.553697,
+          25.046669
+        ]
+      },
+      "properties": {
+        "院所名稱": "康健診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.560235,
+          25.056602
+        ]
+      },
+      "properties": {
+        "院所名稱": "陳炳堅內科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5638424,
+          25.0524721
+        ]
+      },
+      "properties": {
+        "院所名稱": "江崇萍小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.566488,
+          25.051284
+        ]
+      },
+      "properties": {
+        "院所名稱": "榮恩耳鼻喉科小兒科聯合診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.56564334999999,
+          25.0524296
+        ]
+      },
+      "properties": {
+        "院所名稱": "林忠志診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.564908,
+          25.051457
+        ]
+      },
+      "properties": {
+        "院所名稱": "親親家庭診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.557649,
+          25.054355
+        ]
+      },
+      "properties": {
+        "院所名稱": "三軍總醫院松山分院附設民眾診療服務處"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.547259,
+          25.053901
+        ]
+      },
+      "properties": {
+        "院所名稱": "安兒康小兒專科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.549595,
+          25.055387
+        ]
+      },
+      "properties": {
+        "院所名稱": "長庚醫療財團法人臺北長庚紀念醫院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5834694,
+          25.0390184
+        ]
+      },
+      "properties": {
+        "院所名稱": "臺北市立聯合醫院附設信義門診部"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5677279,
+          25.0427494
+        ]
+      },
+      "properties": {
+        "院所名稱": "俊安診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.577843,
+          25.048067
+        ]
+      },
+      "properties": {
+        "院所名稱": "東群牙醫診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.568917,
+          25.045648
+        ]
+      },
+      "properties": {
+        "院所名稱": "康泰診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.562757,
+          25.026294
+        ]
+      },
+      "properties": {
+        "院所名稱": "臺北醫學大學附設醫院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5694486,
+          25.0239001
+        ]
+      },
+      "properties": {
+        "院所名稱": "六安復健科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.574562,
+          25.040863
+        ]
+      },
+      "properties": {
+        "院所名稱": "理恩診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.579063,
+          25.041321
+        ]
+      },
+      "properties": {
+        "院所名稱": "新眼光眼科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.563656,
+          25.042502
+        ]
+      },
+      "properties": {
+        "院所名稱": "聯合報系員工診療所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.578343,
+          25.036887
+        ]
+      },
+      "properties": {
+        "院所名稱": "黃啟彰診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.578315,
+          25.037051
+        ]
+      },
+      "properties": {
+        "院所名稱": "陽光耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.569387,
+          25.024836
+        ]
+      },
+      "properties": {
+        "院所名稱": "松仁耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5726147,
+          25.0473191
+        ]
+      },
+      "properties": {
+        "院所名稱": "明輝診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.576692,
+          25.038724
+        ]
+      },
+      "properties": {
+        "院所名稱": "鄭光志小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.574661,
+          25.029292
+        ]
+      },
+      "properties": {
+        "院所名稱": "臺北市立聯合醫院松德院區"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.581368,
+          25.040393
+        ]
+      },
+      "properties": {
+        "院所名稱": "登瑞安診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5772733,
+          25.0402807
+        ]
+      },
+      "properties": {
+        "院所名稱": "王寬仁診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.576724,
+          25.039969
+        ]
+      },
+      "properties": {
+        "院所名稱": "信義邱婦產科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.557733,
+          25.0333
+        ]
+      },
+      "properties": {
+        "院所名稱": "滕起民牙醫診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.55871051123,
+          25.0291701
+        ]
+      },
+      "properties": {
+        "院所名稱": "原力復健科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.562716,
+          25.028788
+        ]
+      },
+      "properties": {
+        "院所名稱": "莊敬診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.564479,
+          25.028758
+        ]
+      },
+      "properties": {
+        "院所名稱": "頌讚中醫診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.564211,
+          25.027859
+        ]
+      },
+      "properties": {
+        "院所名稱": "長風小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.564211,
+          25.027859
+        ]
+      },
+      "properties": {
+        "院所名稱": "順康復健科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.565869,
+          25.02849
+        ]
+      },
+      "properties": {
+        "院所名稱": "信義耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.580565,
+          25.03683
+        ]
+      },
+      "properties": {
+        "院所名稱": "林應然小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.583207,
+          25.039284
+        ]
+      },
+      "properties": {
+        "院所名稱": "承芯耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.57642,
+          25.040826
+        ]
+      },
+      "properties": {
+        "院所名稱": "朱耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.577821,
+          25.050976
+        ]
+      },
+      "properties": {
+        "院所名稱": "陳志鑫診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.583497,
+          25.042814
+        ]
+      },
+      "properties": {
+        "院所名稱": "中坡耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.582908,
+          25.046254
+        ]
+      },
+      "properties": {
+        "院所名稱": "義仁兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5834125,
+          25.0441884
+        ]
+      },
+      "properties": {
+        "院所名稱": "蔣小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.586232,
+          25.046556
+        ]
+      },
+      "properties": {
+        "院所名稱": "臺北市立聯合醫院忠孝院區"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.58644,
+          25.045038
+        ]
+      },
+      "properties": {
+        "院所名稱": "天仁小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.58644,
+          25.045038
+        ]
+      },
+      "properties": {
+        "院所名稱": "天仁健康診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5807641,
+          25.0457381
+        ]
+      },
+      "properties": {
+        "院所名稱": "友力耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5883066,
+          25.0488839
+        ]
+      },
+      "properties": {
+        "院所名稱": "松展診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.587759,
+          25.048908
+        ]
+      },
+      "properties": {
+        "院所名稱": "希文耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.606658,
+          25.054809
+        ]
+      },
+      "properties": {
+        "院所名稱": "臺北市立聯合醫院附設南港門診部"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.616312,
+          25.053008
+        ]
+      },
+      "properties": {
+        "院所名稱": "冠德耳鼻喉科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.615137,
+          25.045542
+        ]
+      },
+      "properties": {
+        "院所名稱": "李文珍小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.586089,
+          25.038858
+        ]
+      },
+      "properties": {
+        "院所名稱": "永育診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.506092,
+          25.027806
+        ]
+      },
+      "properties": {
+        "院所名稱": "青年診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.506091,
+          25.027807
+        ]
+      },
+      "properties": {
+        "院所名稱": "漢宗小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.49475,
+          25.02803
+        ]
+      },
+      "properties": {
+        "院所名稱": "瑞生診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.49479,
+          25.027886
+        ]
+      },
+      "properties": {
+        "院所名稱": "西園醫療社團法人西園醫院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.497684592677,
+          25.0296834
+        ]
+      },
+      "properties": {
+        "院所名稱": "許孟權小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5046527,
+          25.0413965
+        ]
+      },
+      "properties": {
+        "院所名稱": "臺北市立聯合醫院中醫院區"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.497778,
+          25.023107
+        ]
+      },
+      "properties": {
+        "院所名稱": "臺北市立聯合醫院附設萬華門診部"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.503081,
+          25.024622
+        ]
+      },
+      "properties": {
+        "院所名稱": "佳安診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.504265,
+          25.038053
+        ]
+      },
+      "properties": {
+        "院所名稱": "永康診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.501773,
+          25.038377
+        ]
+      },
+      "properties": {
+        "院所名稱": "萬華劉小兒科診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5040404,
+          25.0396683
+        ]
+      },
+      "properties": {
+        "院所名稱": "顏克文診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.500407,
+          25.026376
+        ]
+      },
+      "properties": {
+        "院所名稱": "益銓診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4954976,
+          25.0198923
+        ]
+      },
+      "properties": {
+        "院所名稱": "童錫鈺診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4941727,
+          25.0260556
+        ]
+      },
+      "properties": {
+        "院所名稱": "快樂兒童診所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.494142,
+          25.026407
+        ]
+      },
+      "properties": {
+        "院所名稱": "天行健診所"
+      }
+    }
+  ]
+}
